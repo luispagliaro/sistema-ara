@@ -1,0 +1,15 @@
+C:\Users\Pagliaro PC\Dropbox\Proyecto\Sistema ARA\Entidades\bin\Debug\SistemaARA.Entidades.dll
+C:\Users\Pagliaro PC\Dropbox\Proyecto\Sistema ARA\Entidades\bin\Debug\SistemaARA.Entidades.pdb
+C:\Users\Pagliaro PC\Dropbox\Proyecto\Sistema ARA\Entidades\obj\Debug\SistemaARA.Entidades.dll
+C:\Users\Pagliaro PC\Dropbox\Proyecto\Sistema ARA\Entidades\obj\Debug\SistemaARA.Entidades.pdb
+C:\Users\Juan Ignacio\Dropbox\Proyecto\Sistema ARA\Entidades\obj\Debug\Entidades.csprojResolveAssemblyReference.cache
+C:\Users\Juan Ignacio\Dropbox\Proyecto\Sistema ARA\Entidades\obj\Debug\SistemaARA.Entidades.dll
+C:\Users\Juan Ignacio\Dropbox\Proyecto\Sistema ARA\Entidades\bin\Debug\SistemaARA.Entidades.dll
+C:\Users\Juan Ignacio\Dropbox\Proyecto\Sistema ARA\Entidades\bin\Debug\SistemaARA.Entidades.pdb
+C:\Users\Juan Ignacio\Dropbox\Proyecto\Sistema ARA\Entidades\obj\Debug\SistemaARA.Entidades.pdb
+C:\Users\Pagliaro PC\Desktop\Luis\UTN\5º\Proyecto Final\Sistema ARA\Entidades\bin\Debug\SistemaARA.Entidades.dll
+C:\Users\Pagliaro PC\Desktop\Luis\UTN\5º\Proyecto Final\Sistema ARA\Entidades\bin\Debug\SistemaARA.Entidades.pdb
+C:\Users\Pagliaro PC\Desktop\Luis\UTN\5º\Proyecto Final\Sistema ARA\Entidades\obj\Debug\Entidades.csprojResolveAssemblyReference.cache
+C:\Users\Pagliaro PC\Desktop\Luis\UTN\5º\Proyecto Final\Sistema ARA\Entidades\obj\Debug\SistemaARA.Entidades.dll
+C:\Users\Pagliaro PC\Desktop\Luis\UTN\5º\Proyecto Final\Sistema ARA\Entidades\obj\Debug\SistemaARA.Entidades.pdb
+C:\Users\Pagliaro PC\Dropbox\Proyecto\Sistema ARA\Entidades\obj\Debug\Entidades.csprojResolveAssemblyReference.cache

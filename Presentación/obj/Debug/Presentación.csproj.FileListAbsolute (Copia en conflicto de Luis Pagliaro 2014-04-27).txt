@@ -1,0 +1,126 @@
+C:\Users\Pagliaro PC\Dropbox\Proyecto\Sistema ARA\Presentación\bin\Debug\Presentación.exe.config
+C:\Users\Pagliaro PC\Dropbox\Proyecto\Sistema ARA\Presentación\obj\Debug\Presentación.csprojResolveAssemblyReference.cache
+C:\Users\Pagliaro PC\Dropbox\Proyecto\Sistema ARA\Presentación\obj\Debug\Presentación.FrmPrincipal.resources
+C:\Users\Pagliaro PC\Dropbox\Proyecto\Sistema ARA\Presentación\obj\Debug\Presentación.Properties.Resources.resources
+C:\Users\Pagliaro PC\Dropbox\Proyecto\Sistema ARA\Presentación\obj\Debug\Presentación.csproj.GenerateResource.Cache
+C:\Users\Pagliaro PC\Dropbox\Proyecto\Sistema ARA\Presentación\bin\Debug\Presentación.exe
+C:\Users\Pagliaro PC\Dropbox\Proyecto\Sistema ARA\Presentación\bin\Debug\Presentación.pdb
+C:\Users\Pagliaro PC\Dropbox\Proyecto\Sistema ARA\Presentación\bin\Debug\SistemaARA.Entidades.dll
+C:\Users\Pagliaro PC\Dropbox\Proyecto\Sistema ARA\Presentación\bin\Debug\SistemaARA.Negocio.dll
+C:\Users\Pagliaro PC\Dropbox\Proyecto\Sistema ARA\Presentación\bin\Debug\SistemaARA.Datos.dll
+C:\Users\Pagliaro PC\Dropbox\Proyecto\Sistema ARA\Presentación\bin\Debug\SistemaARA.Configuracion.dll
+C:\Users\Pagliaro PC\Dropbox\Proyecto\Sistema ARA\Presentación\bin\Debug\SistemaARA.Entidades.pdb
+C:\Users\Pagliaro PC\Dropbox\Proyecto\Sistema ARA\Presentación\bin\Debug\SistemaARA.Negocio.pdb
+C:\Users\Pagliaro PC\Dropbox\Proyecto\Sistema ARA\Presentación\bin\Debug\SistemaARA.Datos.pdb
+C:\Users\Pagliaro PC\Dropbox\Proyecto\Sistema ARA\Presentación\bin\Debug\SistemaARA.Configuracion.pdb
+C:\Users\Pagliaro PC\Dropbox\Proyecto\Sistema ARA\Presentación\obj\Debug\Presentación.exe
+C:\Users\Pagliaro PC\Dropbox\Proyecto\Sistema ARA\Presentación\obj\Debug\Presentación.pdb
+C:\Users\Pagliaro PC\Dropbox\Proyecto\Sistema ARA\Presentación\obj\Debug\Presentación.exe.licenses
+C:\Users\Pagliaro PC\Dropbox\Proyecto\Sistema ARA\Presentación\obj\Debug\Presentación.frmInstitucion.resources
+C:\Users\Juan Ignacio\Dropbox\Proyecto\Sistema ARA\Presentación\bin\Debug\Presentación.exe.config
+C:\Users\Juan Ignacio\Dropbox\Proyecto\Sistema ARA\Presentación\obj\Debug\Presentación.exe
+C:\Users\Juan Ignacio\Dropbox\Proyecto\Sistema ARA\Presentación\obj\Debug\Presentación.pdb
+C:\Users\Pagliaro PC\Dropbox\Proyecto\Sistema ARA\Presentación\bin\Debug\Presentación.exe.manifest
+C:\Users\Pagliaro PC\Dropbox\Proyecto\Sistema ARA\Presentación\bin\Debug\Presentación.application
+C:\Users\Pagliaro PC\Dropbox\Proyecto\Sistema ARA\Presentación\obj\Debug\Presentación.exe.manifest
+C:\Users\Pagliaro PC\Dropbox\Proyecto\Sistema ARA\Presentación\obj\Debug\Presentación.application
+C:\Users\Pagliaro PC\Dropbox\Proyecto\Sistema ARA\Presentación\obj\Debug\Presentación.frmJugador.resources
+C:\Users\Pagliaro PC\Dropbox\Proyecto\Sistema ARA\Presentación\obj\Debug\Presentación.frmArbitro.resources
+C:\Users\Pagliaro PC\Dropbox\Proyecto\Sistema ARA\Presentación\obj\Debug\Presentación.frmCategoria.resources
+C:\Users\Pagliaro PC\Dropbox\Proyecto\Sistema ARA\Presentación\obj\Debug\Presentación.frmCuota.resources
+C:\Users\Pagliaro PC\Dropbox\Proyecto\Sistema ARA\Presentación\obj\Debug\Presentación.frmPagoCuota.resources
+C:\Users\Juan Ignacio\Dropbox\Proyecto\Sistema ARA\Presentación\obj\Debug\Presentación.csprojResolveAssemblyReference.cache
+C:\Users\Juan Ignacio\Dropbox\Proyecto\Sistema ARA\Presentación\obj\Debug\Presentación.frmArbitro.resources
+C:\Users\Juan Ignacio\Dropbox\Proyecto\Sistema ARA\Presentación\obj\Debug\Presentación.frmCuota.resources
+C:\Users\Juan Ignacio\Dropbox\Proyecto\Sistema ARA\Presentación\obj\Debug\Presentación.frmInstitucion.resources
+C:\Users\Juan Ignacio\Dropbox\Proyecto\Sistema ARA\Presentación\obj\Debug\Presentación.frmJugador.resources
+C:\Users\Juan Ignacio\Dropbox\Proyecto\Sistema ARA\Presentación\obj\Debug\Presentación.frmPagoCuota.resources
+C:\Users\Juan Ignacio\Dropbox\Proyecto\Sistema ARA\Presentación\obj\Debug\Presentación.frmPrincipal.resources
+C:\Users\Juan Ignacio\Dropbox\Proyecto\Sistema ARA\Presentación\obj\Debug\Presentación.Properties.Resources.resources
+C:\Users\Juan Ignacio\Dropbox\Proyecto\Sistema ARA\Presentación\obj\Debug\Presentación.csproj.GenerateResource.Cache
+C:\Users\Juan Ignacio\Dropbox\Proyecto\Sistema ARA\Presentación\obj\Debug\Presentación.exe.licenses
+C:\Users\Juan Ignacio\Dropbox\Proyecto\Sistema ARA\Presentación\bin\Debug\Presentación.exe.manifest
+C:\Users\Juan Ignacio\Dropbox\Proyecto\Sistema ARA\Presentación\bin\Debug\Presentación.application
+C:\Users\Juan Ignacio\Dropbox\Proyecto\Sistema ARA\Presentación\bin\Debug\Presentación.exe
+C:\Users\Juan Ignacio\Dropbox\Proyecto\Sistema ARA\Presentación\bin\Debug\Presentación.pdb
+C:\Users\Juan Ignacio\Dropbox\Proyecto\Sistema ARA\Presentación\bin\Debug\SistemaARA.Entidades.dll
+C:\Users\Juan Ignacio\Dropbox\Proyecto\Sistema ARA\Presentación\bin\Debug\SistemaARA.Negocio.dll
+C:\Users\Juan Ignacio\Dropbox\Proyecto\Sistema ARA\Presentación\bin\Debug\SistemaARA.Datos.dll
+C:\Users\Juan Ignacio\Dropbox\Proyecto\Sistema ARA\Presentación\bin\Debug\SistemaARA.Configuracion.dll
+C:\Users\Juan Ignacio\Dropbox\Proyecto\Sistema ARA\Presentación\bin\Debug\SistemaARA.Entidades.pdb
+C:\Users\Juan Ignacio\Dropbox\Proyecto\Sistema ARA\Presentación\bin\Debug\SistemaARA.Negocio.pdb
+C:\Users\Juan Ignacio\Dropbox\Proyecto\Sistema ARA\Presentación\bin\Debug\SistemaARA.Datos.pdb
+C:\Users\Juan Ignacio\Dropbox\Proyecto\Sistema ARA\Presentación\bin\Debug\SistemaARA.Configuracion.pdb
+C:\Users\Juan Ignacio\Dropbox\Proyecto\Sistema ARA\Presentación\obj\Debug\Presentación.exe.manifest
+C:\Users\Juan Ignacio\Dropbox\Proyecto\Sistema ARA\Presentación\obj\Debug\Presentación.application
+C:\Users\Pagliaro PC\Dropbox\Proyecto\Sistema ARA\Presentación\obj\Debug\Presentación.frmTorneo.resources
+C:\Users\Juan Ignacio\Dropbox\Proyecto\Sistema ARA\Presentación\obj\Debug\Presentación.frmTorneo.resources
+C:\Users\Juan Ignacio\Dropbox\Proyecto\Sistema ARA\Presentación\obj\Debug\Presentación.frmCategoria.resources
+C:\Users\Pagliaro PC\Dropbox\Proyecto\Sistema ARA\Presentación\obj\Debug\Presentación.frmTipo.resources
+C:\Users\Pagliaro PC\Dropbox\Proyecto\Sistema ARA\Presentación\obj\Debug\Presentación.frmInscripcion.resources
+C:\Users\Juan Ignacio\Dropbox\Proyecto\Sistema ARA\Presentación\obj\Debug\Presentación.frmInscripcion.resources
+C:\Users\Juan Ignacio\Dropbox\Proyecto\Sistema ARA\Presentación\obj\Debug\Presentación.frmTipo.resources
+C:\Users\Pagliaro PC\Dropbox\Proyecto\Sistema ARA\Presentación\obj\Debug\Presentación.Informes.infJugInstitucion.resources
+C:\Users\Pagliaro PC\Dropbox\Proyecto\Sistema ARA\Presentación\obj\Debug\Presentación.Informes.infCuotasPagadas.resources
+C:\Users\Pagliaro PC\Dropbox\Proyecto\Sistema ARA\Presentación\obj\Debug\Presentación.Informes.infInstRegistradas.resources
+C:\Users\Pagliaro PC\Dropbox\Proyecto\Sistema ARA\Presentación\obj\Debug\Presentación.Informes.infJugRegistrados.resources
+C:\Users\Pagliaro PC\Dropbox\Proyecto\Sistema ARA\Presentación\obj\Debug\Presentación.Informes.infDatosJugador.resources
+C:\Users\Pagliaro PC\Dropbox\Proyecto\Sistema ARA\Presentación\obj\Debug\Presentación.Informes.infArbRegistrados.resources
+C:\Users\Pagliaro PC\Dropbox\Proyecto\Sistema ARA\Presentación\obj\Debug\Presentación.Informes.infDatosArbitro.resources
+C:\Users\Pagliaro PC\Dropbox\Proyecto\Sistema ARA\Presentación\obj\Debug\Presentación.Informes.infInstCuotasPend.resources
+C:\Users\Pagliaro PC\Dropbox\Proyecto\Sistema ARA\Presentación\obj\Debug\Presentación.Informes.infJugInscriptos.resources
+C:\Users\Juan Ignacio\Dropbox\Proyecto\Sistema ARA\Presentación\obj\Debug\Presentación.Informes.infArbRegistrados.resources
+C:\Users\Juan Ignacio\Dropbox\Proyecto\Sistema ARA\Presentación\obj\Debug\Presentación.Informes.infCuotasPagadas.resources
+C:\Users\Juan Ignacio\Dropbox\Proyecto\Sistema ARA\Presentación\obj\Debug\Presentación.Informes.infDatosArbitro.resources
+C:\Users\Juan Ignacio\Dropbox\Proyecto\Sistema ARA\Presentación\obj\Debug\Presentación.Informes.infDatosJugador.resources
+C:\Users\Juan Ignacio\Dropbox\Proyecto\Sistema ARA\Presentación\obj\Debug\Presentación.Informes.infInstCuotasPend.resources
+C:\Users\Juan Ignacio\Dropbox\Proyecto\Sistema ARA\Presentación\obj\Debug\Presentación.Informes.infInstRegistradas.resources
+C:\Users\Juan Ignacio\Dropbox\Proyecto\Sistema ARA\Presentación\obj\Debug\Presentación.Informes.infJugInscriptos.resources
+C:\Users\Juan Ignacio\Dropbox\Proyecto\Sistema ARA\Presentación\obj\Debug\Presentación.Informes.infJugInstitucion.resources
+C:\Users\Juan Ignacio\Dropbox\Proyecto\Sistema ARA\Presentación\obj\Debug\Presentación.Informes.infJugRegistrados.resources
+C:\Users\Pagliaro PC\Dropbox\Proyecto\Sistema ARA\Presentación\obj\Debug\Presentación.Informes.infInscriptosTorneo.resources
+C:\Users\Pagliaro PC\Dropbox\Proyecto\Sistema ARA\Presentación\obj\Debug\Presentación.frmFiltroCatInscripcion.resources
+C:\Users\Juan Ignacio\Dropbox\Proyecto\Sistema ARA\Presentación\obj\Debug\Presentación.frmFiltroCatInscripcion.resources
+C:\Users\Juan Ignacio\Dropbox\Proyecto\Sistema ARA\Presentación\obj\Debug\Presentación.Informes.infInscriptosTorneo.resources
+C:\Users\Pagliaro PC\Desktop\Luis\UTN\5º\Proyecto Final\Sistema ARA\Presentación\bin\Debug\Presentación.exe.config
+C:\Users\Pagliaro PC\Desktop\Luis\UTN\5º\Proyecto Final\Sistema ARA\Presentación\obj\Debug\Presentación.exe
+C:\Users\Pagliaro PC\Desktop\Luis\UTN\5º\Proyecto Final\Sistema ARA\Presentación\obj\Debug\Presentación.pdb
+C:\Users\Pagliaro PC\Desktop\Luis\UTN\5º\Proyecto Final\Sistema ARA\Presentación\bin\Debug\Presentación.exe.manifest
+C:\Users\Pagliaro PC\Desktop\Luis\UTN\5º\Proyecto Final\Sistema ARA\Presentación\bin\Debug\Presentación.application
+C:\Users\Pagliaro PC\Desktop\Luis\UTN\5º\Proyecto Final\Sistema ARA\Presentación\bin\Debug\Presentación.exe
+C:\Users\Pagliaro PC\Desktop\Luis\UTN\5º\Proyecto Final\Sistema ARA\Presentación\bin\Debug\Presentación.pdb
+C:\Users\Pagliaro PC\Desktop\Luis\UTN\5º\Proyecto Final\Sistema ARA\Presentación\bin\Debug\SistemaARA.Entidades.dll
+C:\Users\Pagliaro PC\Desktop\Luis\UTN\5º\Proyecto Final\Sistema ARA\Presentación\bin\Debug\SistemaARA.Negocio.dll
+C:\Users\Pagliaro PC\Desktop\Luis\UTN\5º\Proyecto Final\Sistema ARA\Presentación\bin\Debug\SistemaARA.Datos.dll
+C:\Users\Pagliaro PC\Desktop\Luis\UTN\5º\Proyecto Final\Sistema ARA\Presentación\bin\Debug\SistemaARA.Configuracion.dll
+C:\Users\Pagliaro PC\Desktop\Luis\UTN\5º\Proyecto Final\Sistema ARA\Presentación\bin\Debug\SistemaARA.Entidades.pdb
+C:\Users\Pagliaro PC\Desktop\Luis\UTN\5º\Proyecto Final\Sistema ARA\Presentación\bin\Debug\SistemaARA.Negocio.pdb
+C:\Users\Pagliaro PC\Desktop\Luis\UTN\5º\Proyecto Final\Sistema ARA\Presentación\bin\Debug\SistemaARA.Datos.pdb
+C:\Users\Pagliaro PC\Desktop\Luis\UTN\5º\Proyecto Final\Sistema ARA\Presentación\bin\Debug\SistemaARA.Configuracion.pdb
+C:\Users\Pagliaro PC\Desktop\Luis\UTN\5º\Proyecto Final\Sistema ARA\Presentación\obj\Debug\Presentación.csprojResolveAssemblyReference.cache
+C:\Users\Pagliaro PC\Desktop\Luis\UTN\5º\Proyecto Final\Sistema ARA\Presentación\obj\Debug\Presentación.frmArbitro.resources
+C:\Users\Pagliaro PC\Desktop\Luis\UTN\5º\Proyecto Final\Sistema ARA\Presentación\obj\Debug\Presentación.frmCategoria.resources
+C:\Users\Pagliaro PC\Desktop\Luis\UTN\5º\Proyecto Final\Sistema ARA\Presentación\obj\Debug\Presentación.frmCuota.resources
+C:\Users\Pagliaro PC\Desktop\Luis\UTN\5º\Proyecto Final\Sistema ARA\Presentación\obj\Debug\Presentación.frmFiltroCatInscripcion.resources
+C:\Users\Pagliaro PC\Desktop\Luis\UTN\5º\Proyecto Final\Sistema ARA\Presentación\obj\Debug\Presentación.frmInscripcion.resources
+C:\Users\Pagliaro PC\Desktop\Luis\UTN\5º\Proyecto Final\Sistema ARA\Presentación\obj\Debug\Presentación.frmInstitucion.resources
+C:\Users\Pagliaro PC\Desktop\Luis\UTN\5º\Proyecto Final\Sistema ARA\Presentación\obj\Debug\Presentación.frmJugador.resources
+C:\Users\Pagliaro PC\Desktop\Luis\UTN\5º\Proyecto Final\Sistema ARA\Presentación\obj\Debug\Presentación.frmPagoCuota.resources
+C:\Users\Pagliaro PC\Desktop\Luis\UTN\5º\Proyecto Final\Sistema ARA\Presentación\obj\Debug\Presentación.frmPrincipal.resources
+C:\Users\Pagliaro PC\Desktop\Luis\UTN\5º\Proyecto Final\Sistema ARA\Presentación\obj\Debug\Presentación.frmTipo.resources
+C:\Users\Pagliaro PC\Desktop\Luis\UTN\5º\Proyecto Final\Sistema ARA\Presentación\obj\Debug\Presentación.frmTorneo.resources
+C:\Users\Pagliaro PC\Desktop\Luis\UTN\5º\Proyecto Final\Sistema ARA\Presentación\obj\Debug\Presentación.Informes.infArbRegistrados.resources
+C:\Users\Pagliaro PC\Desktop\Luis\UTN\5º\Proyecto Final\Sistema ARA\Presentación\obj\Debug\Presentación.Informes.infCuotasPagadas.resources
+C:\Users\Pagliaro PC\Desktop\Luis\UTN\5º\Proyecto Final\Sistema ARA\Presentación\obj\Debug\Presentación.Informes.infDatosArbitro.resources
+C:\Users\Pagliaro PC\Desktop\Luis\UTN\5º\Proyecto Final\Sistema ARA\Presentación\obj\Debug\Presentación.Informes.infDatosJugador.resources
+C:\Users\Pagliaro PC\Desktop\Luis\UTN\5º\Proyecto Final\Sistema ARA\Presentación\obj\Debug\Presentación.Informes.infInscriptosTorneo.resources
+C:\Users\Pagliaro PC\Desktop\Luis\UTN\5º\Proyecto Final\Sistema ARA\Presentación\obj\Debug\Presentación.Informes.infInstCuotasPend.resources
+C:\Users\Pagliaro PC\Desktop\Luis\UTN\5º\Proyecto Final\Sistema ARA\Presentación\obj\Debug\Presentación.Informes.infInstRegistradas.resources
+C:\Users\Pagliaro PC\Desktop\Luis\UTN\5º\Proyecto Final\Sistema ARA\Presentación\obj\Debug\Presentación.Informes.infJugInscriptos.resources
+C:\Users\Pagliaro PC\Desktop\Luis\UTN\5º\Proyecto Final\Sistema ARA\Presentación\obj\Debug\Presentación.Informes.infJugInstitucion.resources
+C:\Users\Pagliaro PC\Desktop\Luis\UTN\5º\Proyecto Final\Sistema ARA\Presentación\obj\Debug\Presentación.Informes.infJugRegistrados.resources
+C:\Users\Pagliaro PC\Desktop\Luis\UTN\5º\Proyecto Final\Sistema ARA\Presentación\obj\Debug\Presentación.Properties.Resources.resources
+C:\Users\Pagliaro PC\Desktop\Luis\UTN\5º\Proyecto Final\Sistema ARA\Presentación\obj\Debug\Presentación.csproj.GenerateResource.Cache
+C:\Users\Pagliaro PC\Desktop\Luis\UTN\5º\Proyecto Final\Sistema ARA\Presentación\obj\Debug\Presentación.exe.licenses
+C:\Users\Pagliaro PC\Desktop\Luis\UTN\5º\Proyecto Final\Sistema ARA\Presentación\obj\Debug\Presentación.exe.manifest
+C:\Users\Pagliaro PC\Desktop\Luis\UTN\5º\Proyecto Final\Sistema ARA\Presentación\obj\Debug\Presentación.application

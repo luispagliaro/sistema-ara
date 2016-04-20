@@ -1,0 +1,10 @@
+C:\Users\Pagliaro PC\Dropbox\Proyecto\Sistema ARA\Configuracion\bin\Debug\SistemaARA.Configuracion.dll
+C:\Users\Pagliaro PC\Dropbox\Proyecto\Sistema ARA\Configuracion\bin\Debug\SistemaARA.Configuracion.pdb
+C:\Users\Pagliaro PC\Dropbox\Proyecto\Sistema ARA\Configuracion\obj\Debug\SistemaARA.Configuracion.dll
+C:\Users\Pagliaro PC\Dropbox\Proyecto\Sistema ARA\Configuracion\obj\Debug\SistemaARA.Configuracion.pdb
+C:\Users\Pagliaro PC\Desktop\Luis\UTN\5º\Proyecto Final\Sistema ARA\Configuracion\bin\Debug\SistemaARA.Configuracion.dll
+C:\Users\Pagliaro PC\Desktop\Luis\UTN\5º\Proyecto Final\Sistema ARA\Configuracion\bin\Debug\SistemaARA.Configuracion.pdb
+C:\Users\Pagliaro PC\Desktop\Luis\UTN\5º\Proyecto Final\Sistema ARA\Configuracion\obj\Debug\Configuracion.csprojResolveAssemblyReference.cache
+C:\Users\Pagliaro PC\Desktop\Luis\UTN\5º\Proyecto Final\Sistema ARA\Configuracion\obj\Debug\SistemaARA.Configuracion.dll
+C:\Users\Pagliaro PC\Desktop\Luis\UTN\5º\Proyecto Final\Sistema ARA\Configuracion\obj\Debug\SistemaARA.Configuracion.pdb
+C:\Users\Pagliaro PC\Dropbox\Proyecto\Sistema ARA\Configuracion\obj\Debug\Configuracion.csprojResolveAssemblyReference.cache

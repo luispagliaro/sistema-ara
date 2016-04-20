@@ -1,0 +1,506 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{08034691-833C-4389-8208-68F7D9C72690}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Presentación</RootNamespace>
+    <AssemblyName>Sistema de Gestión ARA</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <PublishUrl>C:\Users\Pagliaro PC\Desktop\Instalador\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <TargetCulture>es-AR</TargetCulture>
+    <ProductName>Sistema de Gestión ARA</ProductName>
+    <PublisherName>Pagliaro%3b Torres</PublisherName>
+    <SuiteName>Sistema de Gestión ARA</SuiteName>
+    <OpenBrowserOnPublish>false</OpenBrowserOnPublish>
+    <ApplicationRevision>0</ApplicationRevision>
+    <ApplicationVersion>1.0.0.0</ApplicationVersion>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <PublishWizardCompleted>true</PublishWizardCompleted>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup>
+    <StartupObject>Presentación.Program</StartupObject>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ManifestCertificateThumbprint>5B655C48A9E876BE702A714C61D50FD07CBC1BE2</ManifestCertificateThumbprint>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ManifestKeyFile>Presentación_ClaveTemporal.pfx</ManifestKeyFile>
+  </PropertyGroup>
+  <PropertyGroup>
+    <GenerateManifests>true</GenerateManifests>
+  </PropertyGroup>
+  <PropertyGroup>
+    <SignManifests>false</SignManifests>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationIcon>
+    </ApplicationIcon>
+  </PropertyGroup>
+  <PropertyGroup>
+    <NoWin32Manifest>true</NoWin32Manifest>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="DevExpress.Charts.v13.2.Core, Version=13.2.5.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.Data.v13.2, Version=13.2.5.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.Office.v13.2.Core, Version=13.2.5.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.PivotGrid.v13.2.Core, Version=13.2.5.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.Printing.v13.2.Core, Version=13.2.5.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.RichEdit.v13.2.Core, Version=13.2.5.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.Sparkline.v13.2.Core, Version=13.2.5.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.Spreadsheet.v13.2.Core, Version=13.2.5.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.Utils.v13.2, Version=13.2.5.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.Utils.v13.2.UI, Version=13.2.5.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraBars.v13.2, Version=13.2.5.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraCharts.v13.2, Version=13.2.5.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraEditors.v13.2, Version=13.2.5.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.XtraGrid.v13.2, Version=13.2.5.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraLayout.v13.2, Version=13.2.5.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.XtraNavBar.v13.2, Version=13.2.5.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraPrinting.v13.2, Version=13.2.5.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraReports.v13.2, Version=13.2.5.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraReports.v13.2.Extensions, Version=13.2.5.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraRichEdit.v13.2, Version=13.2.5.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.XtraScheduler.v13.2, Version=13.2.5.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraScheduler.v13.2.Core, Version=13.2.5.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.XtraSpreadsheet.v13.2, Version=13.2.5.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraTreeList.v13.2, Version=13.2.5.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="CrearBD.cs" />
+    <Compile Include="frmAcercaDe.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmAcercaDe.Designer.cs">
+      <DependentUpon>frmAcercaDe.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmArbitro.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmArbitro.Designer.cs">
+      <DependentUpon>frmArbitro.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmCategoria.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmCategoria.Designer.cs">
+      <DependentUpon>frmCategoria.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmCreacionBD.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmCreacionBD.Designer.cs">
+      <DependentUpon>frmCreacionBD.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmCuota.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmCuota.Designer.cs">
+      <DependentUpon>frmCuota.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmFiltroCatInscripcion.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmFiltroCatInscripcion.Designer.cs">
+      <DependentUpon>frmFiltroCatInscripcion.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmInscripcion.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmInscripcion.Designer.cs">
+      <DependentUpon>frmInscripcion.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmInstitucion.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmInstitucion.Designer.cs">
+      <DependentUpon>frmInstitucion.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmJugador.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmJugador.Designer.cs">
+      <DependentUpon>frmJugador.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmPagoCuota.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmPagoCuota.Designer.cs">
+      <DependentUpon>frmPagoCuota.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmPrincipal.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmPrincipal.Designer.cs">
+      <DependentUpon>frmPrincipal.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmTipo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmTipo.Designer.cs">
+      <DependentUpon>frmTipo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmTorneo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmTorneo.Designer.cs">
+      <DependentUpon>frmTorneo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="General.cs" />
+    <Compile Include="Informes\infArbRegistrados.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Informes\infArbRegistrados.Designer.cs">
+      <DependentUpon>infArbRegistrados.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Informes\infCuotasPagadas.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Informes\infCuotasPagadas.Designer.cs">
+      <DependentUpon>infCuotasPagadas.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Informes\infDatosArbitro.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Informes\infDatosArbitro.Designer.cs">
+      <DependentUpon>infDatosArbitro.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Informes\infDatosJugador.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Informes\infDatosJugador.Designer.cs">
+      <DependentUpon>infDatosJugador.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Informes\infInscriptosTorneo.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Informes\infInscriptosTorneo.Designer.cs">
+      <DependentUpon>infInscriptosTorneo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Informes\infInstCuotasPend.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Informes\infInstCuotasPend.Designer.cs">
+      <DependentUpon>infInstCuotasPend.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Informes\infInstRegistradas.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Informes\infInstRegistradas.Designer.cs">
+      <DependentUpon>infInstRegistradas.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Informes\infJugExcel.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Informes\infJugExcel.Designer.cs">
+      <DependentUpon>infJugExcel.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Informes\infJugInscriptos.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Informes\infJugInscriptos.Designer.cs">
+      <DependentUpon>infJugInscriptos.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Informes\infJugInstitucion.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Informes\infJugInstitucion.Designer.cs">
+      <DependentUpon>infJugInstitucion.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Informes\infJugRegistrados.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Informes\infJugRegistrados.Designer.cs">
+      <DependentUpon>infJugRegistrados.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Informes\infInstXLS.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Informes\infInstXLS.Designer.cs">
+      <DependentUpon>infInstXLS.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ListViewColumnSorter.cs" />
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="SistemaARADataSet.cs">
+      <DependentUpon>SistemaARADataSet.xsd</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="SistemaARADataSet.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>SistemaARADataSet.xsd</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="frmAcercaDe.resx">
+      <DependentUpon>frmAcercaDe.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmArbitro.resx">
+      <DependentUpon>frmArbitro.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmCategoria.resx">
+      <DependentUpon>frmCategoria.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmCreacionBD.resx">
+      <DependentUpon>frmCreacionBD.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmCuota.resx">
+      <DependentUpon>frmCuota.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmFiltroCatInscripcion.resx">
+      <DependentUpon>frmFiltroCatInscripcion.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmInscripcion.resx">
+      <DependentUpon>frmInscripcion.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmInstitucion.resx">
+      <DependentUpon>frmInstitucion.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmJugador.resx">
+      <DependentUpon>frmJugador.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmPagoCuota.resx">
+      <DependentUpon>frmPagoCuota.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmPrincipal.resx">
+      <DependentUpon>frmPrincipal.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmTipo.resx">
+      <DependentUpon>frmTipo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmTorneo.resx">
+      <DependentUpon>frmTorneo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Informes\infArbRegistrados.resx">
+      <DependentUpon>infArbRegistrados.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Informes\infCuotasPagadas.resx">
+      <DependentUpon>infCuotasPagadas.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Informes\infDatosArbitro.resx">
+      <DependentUpon>infDatosArbitro.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Informes\infDatosJugador.resx">
+      <DependentUpon>infDatosJugador.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Informes\infInscriptosTorneo.resx">
+      <DependentUpon>infInscriptosTorneo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Informes\infInstCuotasPend.resx">
+      <DependentUpon>infInstCuotasPend.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Informes\infInstRegistradas.resx">
+      <DependentUpon>infInstRegistradas.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Informes\infJugExcel.resx">
+      <DependentUpon>infJugExcel.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Informes\infJugInscriptos.resx">
+      <DependentUpon>infJugInscriptos.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Informes\infJugInstitucion.resx">
+      <DependentUpon>infJugInstitucion.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Informes\infJugRegistrados.resx">
+      <DependentUpon>infJugRegistrados.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Informes\infInstXLS.resx">
+      <DependentUpon>infInstXLS.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\licenses.licx" />
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>PublicResXFileCodeGenerator</Generator>
+      <SubType>Designer</SubType>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <None Include="Ayuda\Ayuda Sistema de Gestión ARA.chm" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <None Include="SistemaARADataSet.xsc">
+      <DependentUpon>SistemaARADataSet.xsd</DependentUpon>
+    </None>
+    <None Include="SistemaARADataSet.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>SistemaARADataSet.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="SistemaARADataSet.xss">
+      <DependentUpon>SistemaARADataSet.xsd</DependentUpon>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config">
+      <SubType>Designer</SubType>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Entidades\Entidades.csproj">
+      <Project>{f4b7bb20-32bb-445c-a12d-aa51858d0ae5}</Project>
+      <Name>Entidades</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Negocio\Negocio.csproj">
+      <Project>{5e6e9fdf-de89-4150-96cc-f1c27fc1f1bc}</Project>
+      <Name>Negocio</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include=".NETFramework,Version=v4.5">
+      <Visible>False</Visible>
+      <ProductName>Microsoft .NET Framework 4.5 %28x86 y x64%29</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Client.3.5">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1 Client Profile</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.SqlServer.SqlLocalDB.11.1">
+      <Visible>False</Visible>
+      <ProductName>SQL Server 2012 Express LocalDB</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <ItemGroup>
+    <PublishFile Include="DevExpress.Data.v13.2">
+      <Visible>False</Visible>
+      <Group>
+      </Group>
+      <TargetPath>
+      </TargetPath>
+      <PublishState>Include</PublishState>
+      <IncludeHash>True</IncludeHash>
+      <FileType>Assembly</FileType>
+    </PublishFile>
+    <PublishFile Include="DevExpress.Printing.v13.2.Core">
+      <Visible>False</Visible>
+      <Group>
+      </Group>
+      <TargetPath>
+      </TargetPath>
+      <PublishState>Include</PublishState>
+      <IncludeHash>True</IncludeHash>
+      <FileType>Assembly</FileType>
+    </PublishFile>
+    <PublishFile Include="DevExpress.Sparkline.v13.2.Core">
+      <Visible>False</Visible>
+      <Group>
+      </Group>
+      <TargetPath>
+      </TargetPath>
+      <PublishState>Include</PublishState>
+      <IncludeHash>True</IncludeHash>
+      <FileType>Assembly</FileType>
+    </PublishFile>
+    <PublishFile Include="DevExpress.Utils.v13.2">
+      <Visible>False</Visible>
+      <Group>
+      </Group>
+      <TargetPath>
+      </TargetPath>
+      <PublishState>Include</PublishState>
+      <IncludeHash>True</IncludeHash>
+      <FileType>Assembly</FileType>
+    </PublishFile>
+    <PublishFile Include="DevExpress.XtraBars.v13.2">
+      <Visible>False</Visible>
+      <Group>
+      </Group>
+      <TargetPath>
+      </TargetPath>
+      <PublishState>Include</PublishState>
+      <IncludeHash>True</IncludeHash>
+      <FileType>Assembly</FileType>
+    </PublishFile>
+    <PublishFile Include="DevExpress.XtraEditors.v13.2">
+      <Visible>False</Visible>
+      <Group>
+      </Group>
+      <TargetPath>
+      </TargetPath>
+      <PublishState>Include</PublishState>
+      <IncludeHash>True</IncludeHash>
+      <FileType>Assembly</FileType>
+    </PublishFile>
+    <PublishFile Include="DevExpress.XtraNavBar.v13.2">
+      <Visible>False</Visible>
+      <Group>
+      </Group>
+      <TargetPath>
+      </TargetPath>
+      <PublishState>Include</PublishState>
+      <IncludeHash>True</IncludeHash>
+      <FileType>Assembly</FileType>
+    </PublishFile>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Icono.ico" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
